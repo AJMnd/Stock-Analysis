@@ -9,12 +9,21 @@ Provide an analysis on green energy, including hydro, geothermal, wind, and bio 
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 Below is a comparison on the original script and the refactored script as well as performances between 2017 and 2018. We also provided the execution time of the original script adn the refactored script. 
 
-The original script, performances in 2017 and 2018. And the execution time. 
+The original script, and the execution time. 
 
 ![](/OGC-0.png)
 
 
 ![](/OGC.png)
+
+![](/2017.png)
+![](/2018.png)
+
+The refactored script, and the execution time. 
+![](/)
+![](/)
+![](/)
+![](/)
 
 ## Summary: 
 When we refactored the code, we encountered a few errors. When we added and removed code there were errors that kept surfacing as we introduced new code. It was a lengthy process, as we added code, we also needed to remove previous code. Constantly had to run the code and debug the code. 
