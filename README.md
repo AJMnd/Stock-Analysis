@@ -20,10 +20,13 @@ The original script, and the execution time.
 ![](/2018.png)
 
 The refactored script, and the execution time. 
-![](/)
-![](/)
-![](/)
-![](/)
+
+![](/RFC-0.png)
+
+![](/RFC.png)
+
+![](/2017MP.png)
+![](/2018MP.png)
 
 ## Summary: 
 When we refactored the code, we encountered a few errors. When we added and removed code there were errors that kept surfacing as we introduced new code. It was a lengthy process, as we added code, we also needed to remove previous code. Constantly had to run the code and debug the code. 
